@@ -6,7 +6,6 @@
    "version": "1.0.0",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.6.5",
-   "systems":"Star Wars FFG"
    "packs": [
     {
       "name": "actors",
@@ -22,7 +21,11 @@
       "entity": "Scene",
       "module": "SWRPG_Compendium"
     }
-  "url": "https://github.com/hans3745/FoundryVTT_SWRPG_Compendiums",
-  "manifest": "https://raw.githubusercontent.com/hans3745/FoundryVTT_SWRPG_Compendiums/master/module.json",
-  "download": "https://github.com/hans3745/FoundryVTT_SWRPG_Compendiums/archive/master.zip"]
+	{,
+	"systems":"Star Wars FFG"
+	},
+	"socket": true,
+	"url": "https://github.com/hans3745/FoundryVTT_SWRPG_Compendiums",
+	"manifest": "https://raw.githubusercontent.com/hans3745/FoundryVTT_SWRPG_Compendiums/master/module.json",
+	"download": "https://github.com/hans3745/FoundryVTT_SWRPG_Compendiums/archive/master.zip"]
  }
