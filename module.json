@@ -22,4 +22,7 @@
       "module": "SWRPG_Compendium"
     }
   ]
+  "url": "https://github.com/hans3745/FoundryVTT_SWRPG_Compendiums",
+  "manifest": "https://raw.githubusercontent.com/hans3745/FoundryVTT_SWRPG_Compendiums/master/module.json",
+  "download": "https://github.com/hans3745/FoundryVTT_SWRPG_Compendiums.zip"]
  }
