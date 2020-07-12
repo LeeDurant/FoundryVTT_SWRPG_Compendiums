@@ -1,0 +1,28 @@
+{   
+   "name": "SWRPG_Compendium",   
+   "title": "Unofficial FFG-SWRPG Compendium",   
+   "description": "FoundryVTT-compatible Actors and Scenes for FFG-SWRPG, unoffical and fan-made.",   
+   "author": "HanYolo",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.6.5",
+   "systems":"Star Wars FFG"
+   "packs": [
+    {
+      "name": "actors",
+      "label": "FFG-SWRPG Actors",
+      "path": "packs/actors.db",
+      "entity": "Actor",
+      "module": "SWRPG_Compendium"
+    },
+    {
+      "name": "scenes",
+      "label": "FFG-SWRPG Scenes",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
+      "module": "SWRPG_Compendium"
+    }
+  "url": "https://github.com/hans3745/FoundryVTT_SWRPG_Compendiums",
+  "manifest": "https://raw.githubusercontent.com/hans3745/FoundryVTT_SWRPG_Compendiums/master/module.json",
+  "download": "https://github.com/hans3745/FoundryVTT_SWRPG_Compendiums/archive/master.zip"]
+ }
